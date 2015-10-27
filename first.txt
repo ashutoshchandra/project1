@@ -1,0 +1,1 @@
+This is my first created in git Repository to be checkin to github for social use, later i will be writing java or python applications or tools to do some cool stuff
